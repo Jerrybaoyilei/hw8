@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainWebDemo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PhotoAlbumMain" />
+    <module name="hw8" />
+    <option name="PROGRAM_PARAMETERS" value="-in input_demo.txt -view web -out demoOut.html" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

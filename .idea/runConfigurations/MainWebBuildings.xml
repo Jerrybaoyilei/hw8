@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainWebBuildings" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PhotoAlbumMain" />
+    <module name="hw8" />
+    <option name="PROGRAM_PARAMETERS" value="-in buildings.txt -v web -out buildingsOut.html " />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
