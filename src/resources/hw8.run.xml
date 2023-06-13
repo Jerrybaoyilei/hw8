@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="hw8" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PhotoAlbumMain" />
+    <module name="hw8" />
+    <option name="PROGRAM_PARAMETERS" value="-in hoops.txt -view graphical" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

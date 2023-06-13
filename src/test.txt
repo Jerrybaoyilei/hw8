@@ -1,0 +1,5 @@
+# This will be ignored
+shape   myrect   rectangle  200  200 50  100  255  0  0
+move myrect     300     200
+resize myrect   25      100
+snapShot test selfie
